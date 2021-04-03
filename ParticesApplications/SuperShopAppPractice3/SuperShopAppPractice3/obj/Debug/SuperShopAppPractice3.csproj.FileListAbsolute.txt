@@ -1,0 +1,10 @@
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csprojAssemblyReference.cache
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb

@@ -1,0 +1,41 @@
+create database Stock_Management_System
+use Stock_Management_System
+
+create table Catagorys(
+ID int IDENTITY (1,1) primary key,
+Name varchar (50)
+)
+
+create table Companys(
+ID int IDENTITY (1,1) primary key,
+Name varchar(50)
+)
+
+create table Items(
+ID int IDENTITY (1,1),
+Name varchar (50),
+Reorder int,
+CatagoryID int foreign key references Catagorys(ID),
+CompanyID int foreign key references Companys(ID),
+primary key(ID,Reorder)
+)
+
+create table StockIn(
+ID int IDENTITY (1,1) primary key,
+CompanyID int foreign key references Companys(ID),
+CatagoryID int foreign key references Catagorys(ID),
+ItemID int foreign key references Items(ID),
+Reorder_LavelID int foreign key references Items(Reorder),
+Available_Quantity int,
+Stock_In_Quantity int
+)
+
+create table StockOut(
+ID int IDENTITY (1,1) primary key,
+CompanyID int foreign key references Companys(ID),
+CatagoryID int foreign key references Catagorys(ID),
+ItemID int foreign key references Items(ID),
+Reorder_LavelID int foreign key references Items(Reorder),
+Available_Quantity int,
+Stock_Out_Quantity int
+)

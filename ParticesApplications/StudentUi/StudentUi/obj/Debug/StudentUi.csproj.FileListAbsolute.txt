@@ -1,0 +1,26 @@
+C:\Users\Abdullah Al Mamun\Desktop\Ankur241699\StudentUi\StudentUi\bin\Debug\StudentUi.exe.config
+C:\Users\Abdullah Al Mamun\Desktop\Ankur241699\StudentUi\StudentUi\bin\Debug\StudentUi.exe
+C:\Users\Abdullah Al Mamun\Desktop\Ankur241699\StudentUi\StudentUi\bin\Debug\StudentUi.pdb
+C:\Users\Abdullah Al Mamun\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.studentUiForm.resources
+C:\Users\Abdullah Al Mamun\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.Properties.Resources.resources
+C:\Users\Abdullah Al Mamun\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.csproj.GenerateResource.Cache
+C:\Users\Abdullah Al Mamun\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.exe
+C:\Users\Abdullah Al Mamun\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.pdb
+C:\Users\user\Desktop\Ankur241699\StudentUi\StudentUi\bin\Debug\StudentUi.exe.config
+C:\Users\user\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.exe
+C:\Users\user\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.pdb
+C:\Users\user\Desktop\Ankur241699\StudentUi\StudentUi\bin\Debug\StudentUi.exe
+C:\Users\user\Desktop\Ankur241699\StudentUi\StudentUi\bin\Debug\StudentUi.pdb
+C:\Users\user\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.studentUiForm.resources
+C:\Users\user\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.Properties.Resources.resources
+C:\Users\user\Desktop\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.csproj.GenerateResource.Cache
+E:\Rafin241699\Ankur241699\StudentUi\StudentUi\bin\Debug\StudentUi.exe.config
+E:\Rafin241699\Ankur241699\StudentUi\StudentUi\bin\Debug\StudentUi.exe
+E:\Rafin241699\Ankur241699\StudentUi\StudentUi\bin\Debug\StudentUi.pdb
+E:\Rafin241699\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.studentUiForm.resources
+E:\Rafin241699\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.Properties.Resources.resources
+E:\Rafin241699\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.csproj.GenerateResource.cache
+E:\Rafin241699\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.csproj.CoreCompileInputs.cache
+E:\Rafin241699\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.exe
+E:\Rafin241699\Ankur241699\StudentUi\StudentUi\obj\Debug\StudentUi.pdb

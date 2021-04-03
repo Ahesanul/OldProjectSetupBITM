@@ -1,0 +1,19 @@
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe.config
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.pdb
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.Properties.Resources.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.RefrigeratorUi.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.GenerateResource.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.CoreCompileInputs.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.pdb
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe.config
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.pdb
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csprojAssemblyReference.cache
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.Properties.Resources.resources
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.RefrigeratorUi.resources
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.GenerateResource.cache
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.CoreCompileInputs.cache
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.exe
+C:\Users\Shiju-PC\Downloads\Compressed\Day14\Day14\Data Hiding Constructor and Property\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.pdb

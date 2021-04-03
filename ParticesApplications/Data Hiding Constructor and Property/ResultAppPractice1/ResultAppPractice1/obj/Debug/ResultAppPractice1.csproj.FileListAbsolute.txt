@@ -1,0 +1,20 @@
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\bin\Debug\ResultAppPractice1.exe.config
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\bin\Debug\ResultAppPractice1.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\bin\Debug\ResultAppPractice1.pdb
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.csprojAssemblyReference.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.ResultUi.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.Properties.Resources.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.csproj.GenerateResource.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.csproj.CoreCompileInputs.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.pdb
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\bin\Debug\ResultAppPractice1.exe.config
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\bin\Debug\ResultAppPractice1.exe
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\bin\Debug\ResultAppPractice1.pdb
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.ResultUi.resources
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.Properties.Resources.resources
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.csproj.GenerateResource.cache
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.exe
+C:\Phase 2\Batch 3\Day14\Data Hiding Constructor and Property\ResultAppPractice1\ResultAppPractice1\obj\Debug\ResultAppPractice1.pdb

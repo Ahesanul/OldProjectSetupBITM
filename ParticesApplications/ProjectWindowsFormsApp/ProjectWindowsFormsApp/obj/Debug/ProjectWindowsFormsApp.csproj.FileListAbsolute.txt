@@ -1,0 +1,36 @@
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\bin\Debug\ProjectWindowsFormsApp.exe.config
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\bin\Debug\ProjectWindowsFormsApp.exe
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\bin\Debug\ProjectWindowsFormsApp.pdb
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.csprojAssemblyReference.cache
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Category.resources
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Properties.Resources.resources
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.csproj.GenerateResource.cache
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.csproj.CoreCompileInputs.cache
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.exe
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.pdb
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Company.resources
+H:\VS2017\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Item.resources
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\bin\Debug\ProjectWindowsFormsApp.exe.config
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\bin\Debug\ProjectWindowsFormsApp.exe
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\bin\Debug\ProjectWindowsFormsApp.pdb
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.csprojAssemblyReference.cache
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Category.resources
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Company.resources
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Item.resources
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Properties.Resources.resources
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.csproj.GenerateResource.cache
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.csproj.CoreCompileInputs.cache
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.exe
+F:\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.pdb
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\bin\Debug\ProjectWindowsFormsApp.exe.config
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\bin\Debug\ProjectWindowsFormsApp.exe
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\bin\Debug\ProjectWindowsFormsApp.pdb
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.csprojAssemblyReference.cache
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Category.resources
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Company.resources
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Item.resources
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.Properties.Resources.resources
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.csproj.GenerateResource.cache
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.csproj.CoreCompileInputs.cache
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.exe
+H:\#IMPORTANT#\BITM ASP.Net Extended\pnd\aaaaaaaaaaaaaaah\Project Windows Apps\ProjectWindowsFormsApp\ProjectWindowsFormsApp\obj\Debug\ProjectWindowsFormsApp.pdb

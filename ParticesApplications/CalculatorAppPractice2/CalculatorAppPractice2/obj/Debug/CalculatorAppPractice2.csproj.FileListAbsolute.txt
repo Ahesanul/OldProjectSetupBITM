@@ -1,0 +1,29 @@
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe.config
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.pdb
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.CalculatorUi.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.Properties.Resources.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.GenerateResource.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.CoreCompileInputs.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.pdb
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe.config
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.pdb
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csprojAssemblyReference.cache
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.CalculatorUi.resources
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.Properties.Resources.resources
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.GenerateResource.cache
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.CoreCompileInputs.cache
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.exe
+C:\Users\Shiju-PC\Downloads\Compressed\Day13\Day13\Introduction OOP1\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.pdb
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe.config
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.exe
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\bin\Debug\CalculatorAppPractice2.pdb
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csprojAssemblyReference.cache
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.CalculatorUi.resources
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.Properties.Resources.resources
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.GenerateResource.cache
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.csproj.CoreCompileInputs.cache
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.exe
+F:\aaaaaaaaaaaaaaa\Practices\CalculatorAppPractice2\CalculatorAppPractice2\obj\Debug\CalculatorAppPractice2.pdb
