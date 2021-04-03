@@ -1,0 +1,68 @@
+﻿@model StockManage.Models.Models.Supplier
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+@if (Model != null)
+{
+    <div class="alert alert-info">@ViewBag.message</div>
+    <div class="row" style="margin-left:300px">
+
+        <form method="post">
+            <table>
+
+                <tr>
+                    <td><h4 class="text-primary">Category Name</h4></td>
+                    <td><input type="text" name="Name" value="@Model.Name" /></td>
+
+                </tr>
+
+                <tr>
+                    <td><h4 class="text-primary">Category Code</h4></td>
+                    <td><input class="text-primary" type="text" name="Code" value="@Model.Code" /></td>
+
+                </tr>
+
+                <tr>
+                    <td><h4 class="text-primary">Customer Address</h4></td>
+                    <td><input class="text-primary" type="text" name="Address" value="@Model.Address" /></td>
+
+                </tr>
+
+                <tr>
+                    <td><h4 class="text-primary">Customer Email</h4></td>
+                    <td><input class="text-primary" type="text" name="Email" value="@Model.Email" /></td>
+
+                </tr>
+
+                <tr>
+                    <td><h4 class="text-primary">Customer Contact</h4></td>
+                    <td><input class="text-primary" type="text" name="Contact" value="@Model.Contact" /></td>
+
+                </tr>
+
+                <tr>
+                    <td><h4 class="text-primary">Contact Person</h4></td>
+                    <td><input class="text-primary" type="text" name="ContactPerson" value="@Model.ContactPerson" /></td>
+
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td><input class="btn btn-success" type="submit" value="Update" /></td>
+
+                </tr>
+
+            </table>
+
+        </form>
+
+
+
+    </div>
+
+
+}

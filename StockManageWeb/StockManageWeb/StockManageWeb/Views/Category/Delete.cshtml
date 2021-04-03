@@ -1,0 +1,47 @@
+﻿@model StockManageWeb.Models.CategoryVM
+@{
+    /**/
+
+    ViewBag.Title = "Add";
+}
+
+<h2 class="alert alert-info text-center">Add</h2>
+@if (ViewBag.message != null)
+{
+    <div class="alert alert-info">@ViewBag.info</div>
+
+}
+<div class="row" style="margin-left:30%">
+
+    <div class="col-lg-8">
+
+        <table class="table table-striped row">
+            <thead>
+                <tr>
+                    <th>Sl</th>
+                    <th>Category Name</th>
+                    <th>Category Code</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @{int sl = 1; }
+                @foreach (var i in Model.categories)
+                {
+                    <tr>
+                        <td>@( sl++ )</td>
+                        <td>@i.Name</td>
+                        <td>@i.Code</td>
+                        <td><a href="/category/Edit?id=@i.ID" class="btn btn-primary" name="Name">Edit</a></td>
+                        <td><a href="/category/Delete?id=@i.ID" class="btn btn-danger">Delete</a></td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+
+</div>

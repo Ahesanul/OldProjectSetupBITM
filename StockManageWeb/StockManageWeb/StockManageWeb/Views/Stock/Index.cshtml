@@ -1,0 +1,193 @@
+﻿@model  StockManageWeb.Models.StockVM
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Stock</h2>
+<form method="post">
+    <div class="row">
+        <div class="card-body row">
+
+            <div class="card col-6  ">
+                <div class="card-body" id="ckeck">
+                    <div class="form-group row">
+
+                        <label class="control-label col-md-4">Product</label>
+
+                        <div class="col-sm-8">
+                            <input type="text" class="form-control" id="LayalitypointText" name="productName">
+
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label class="control-label col-md-4">Category</label>
+                        <div class="col-sm-8">
+                            <input type="text" class="form-control" id="LayalitypointText" name="category">
+
+                        </div>
+                    </div>
+
+                    <input type="checkbox" id="ReorderCheckbox">Reorder Level<br>
+                    <input type="checkbox" id="Expirecheckbox">Expire<br>
+                    
+                    <input type="hidden" name="vehicle1" id="Expirehidden" />
+
+
+                </div>
+            </div>
+
+            <div class="card col-6  ">
+                <div class="card-body">
+                    <div class="form-group row">
+
+                        <label class="control-label col-md-4">Start Date</label>
+                        <div class="col-8 ">
+                            <input type="date" class="form-control" id="DateText" name="sDate">
+
+                        </div>
+                    </div>
+
+                    <div class="form-group row ">
+
+                        <label class="control-label col-md-4">End Date</label>
+
+                        <div class="col-8 ">
+                            <input type="date" class="form-control" id="DateText" name="eDate">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin-left:90% ">
+                <input class="btn btn-success" type="submit" value="Submit">
+
+            </div>
+
+
+        </div>
+
+        @if (Model != null)
+        {
+            <div class="col-lg-10">
+
+                <table class="table table-striped row" style="margin-left:2%">
+
+                    <tr>
+                        <th>Sl</th>
+                        <th>Code</th>
+                        <th>Name</th>
+                        <th>Product Category</th>
+                        <th>Product Reoreder Level</th>
+                        <th>Expire Date</th>
+                        <th>Expire Qty</th>
+                        <th>Opening Blance</th>
+                        <th>IN</th>
+                        <th>Out</th>
+                        <th>Closing Blance</th>
+
+                    </tr>
+
+
+
+                    @{int sl = 1; }
+                    @foreach (var i in Model.Sales)
+                    {
+                    <tr>
+
+                        <td>@(sl++ )</td>
+                        <td>@i.Purchase.product.Code</td>
+                        <td><a href="#" data-target="#addOrder" data-toggle="modal" class="link-inherit">@i.Purchase.product.Name</a></td>
+                        <td>@i.Purchase.product.categories.Name</td>
+                        <td>@i.Purchase.product.ReorderLevel</td>
+                        <td>@i.Purchase.expireDate</td>
+                        <td><a href="#" data-target="#addOrder" data-toggle="modal"  class="link-inherit" >@i.quantity</a></td>
+                        <td>@i.TotalMRP</td>
+                        <td>@i.Purchase.newMRP</td>
+                        <td>@i.MRP</td>
+                        <td>@i.Purchase.totalPrice</td>
+
+                    </tr>
+                    }
+
+
+                </table>
+            </div>
+        }
+    </div>
+</form>
+<div class="modal" id="addOrder" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <h4 class="modal-title">Order Remaks</h4>
+                <button class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <form method="post">
+                <div class="modal-body">
+
+                    <div class="card">
+                        <div class="card-body">
+
+                            <div class="form-group row">
+                                @Html.LabelFor(c => c.Purchase.ProductID, null, new { @class = "control-label col-md-5" })
+                                <div class="col-sm-7">
+                                    @Html.DropDownListFor(c => c.Purchase.ID, Model.ProductList, "--Select--", new { @class = "form-control", id = "customer" })
+                                </div>
+                            </div>
+
+                            <div class="form-group row">
+                                @Html.LabelFor(c => c.Purchase.Date, null, new { @class = "control-label col-md-5" })
+                                <div class="col-sm-7">
+                                    <input type="date" class="form-control" id="DateText" name="Date" placeholder="Quantity">
+                                </div>
+                            </div>
+
+                            <div class="form-group row">
+                                <label class="control-label col-md-5">Discription</label>
+                                <div class="col-sm-7">
+                                    <input type="text" class="form-control" id="invoiceNoText" name="Discription" placeholder="Discription">
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Add</button>
+                    <button class="btn btn-primary" data-dismiss="modal">Cancel</button>
+
+                </div>
+            </form>
+           
+        </div>
+    </div>
+
+</div>
+@section scripts{
+    <script>
+
+        
+        $("#ReorderCheckbox").click(function () {
+            if ($(this).is(':checked')) {
+                $("#ckeck").append("<input type='hidden' name='Reordercheck' value='true'/>");
+               
+            }
+        });
+
+
+        $("#Expirecheckbox").click(function () {
+            if ($(this).is(':checked')) {
+                $("#ckeck").append("<input type='hidden' name='Expirecheck' value='true'/>");
+
+            }
+        });
+
+    </script>
+    
+}

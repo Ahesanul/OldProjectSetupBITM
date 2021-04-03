@@ -1,0 +1,67 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data;
+using System.Data.SqlClient;
+
+namespace MyWinApp.Repositive
+{
+   public class StudentRepositive
+    {
+        //Connection
+        private string connectionString= @"Server=PC-301-03\SQLEXPRESS; Database=StudentDB; Integrated Security=True";
+        private SqlConnection sqlConnection;
+
+        //Command
+        private string commandString;
+        private SqlCommand sqlCommand;
+
+       public DataTable LoadDistrict()
+        {
+            sqlConnection = new SqlConnection(connectionString);
+            //
+            sqlConnection.Open();
+
+            //
+            commandString = @"SELECT * FROM Districts";
+            sqlCommand = new SqlCommand(commandString, sqlConnection);
+
+            //
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+            DataTable dataTable = new DataTable();
+            sqlDataAdapter.Fill(dataTable);
+
+            //if (dataTable.Rows.Count > 0)
+            //    districtComboBox.DataSource = dataTable;
+            ////
+            sqlConnection.Close();
+            return dataTable;
+        }
+
+        public DataTable ShowStudent()
+        {
+            sqlConnection = new SqlConnection(connectionString);
+            //
+            sqlConnection.Open();
+
+            //
+            commandString = @"SELECT * FROM StudentsView";
+            sqlCommand = new SqlCommand(commandString, sqlConnection);
+
+            //
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+            DataTable dataTable = new DataTable();
+            sqlDataAdapter.Fill(dataTable);
+
+            //if (dataTable.Rows.Count > 0)
+            //    displayDataGridView.DataSource = dataTable;
+            ////
+            sqlConnection.Close();
+            return dataTable;
+        }
+
+
+    }
+}

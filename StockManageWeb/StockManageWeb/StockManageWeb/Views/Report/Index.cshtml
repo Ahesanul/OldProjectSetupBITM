@@ -1,0 +1,82 @@
+﻿@model StockManageWeb.Models.Report
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Report</h2>
+
+<form method="post">
+    <div class="row">
+        <div class="card-body row">
+
+            <div class="card col-6  ">
+                <div class="card-body">
+                    <div class="form-group row">
+
+                        <label class="control-label col-md-4">Date</label>
+                        <div class="col-8 ">
+                            <input type="date" class="form-control" id="sDateText" name="sDate">
+
+                        </div>
+                    </div>
+
+                    <div class="form-group row ">
+
+                        <label class="control-label col-md-4">Date</label>
+
+                        <div class="col-8 ">
+                            <input type="date" class="form-control" id="eDateText" name="eDate">
+
+                        </div>
+                        
+                    </div>
+                    <div style="margin-left:50% ">
+                        <input class="btn btn-success" type="submit" value="Search">
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        @if (Model != null)
+        {
+            <div class="col-lg-10">
+
+                <table class="table table-striped row" style="margin-left:2%">
+
+                    <tr>
+                        <th>Sl</th>
+                        <th>Code</th>
+                        <th>Name</th>
+                        <th>CP(TK)</th>
+                        <th>MRP</th>
+                        <th>Profit</th>
+                       
+
+                    </tr>
+
+
+
+                    @{int sl = 1; }
+                    @foreach (var i in Model.Sales)
+                    {
+                    <tr>
+
+                        <td>@(sl++ )</td>
+                        <td>@i.Purchase.product.Code</td>
+                        <td>@i.Purchase.product.categories.Name</td>
+                        <td>@i.Purchase.unitPrice</td>
+                        <td>@i.MRP</td>
+                        <td>@i.TotalMRP</td>
+
+
+                    </tr>
+                    }
+
+
+                </table>
+            </div>
+        }
+    </div>
+</form>

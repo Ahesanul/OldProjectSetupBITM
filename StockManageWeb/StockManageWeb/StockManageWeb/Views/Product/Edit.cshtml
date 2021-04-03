@@ -1,0 +1,117 @@
+﻿
+@model StockManageWeb.Models.ProductVM
+@{
+    /**/
+
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@if (Model != null)
+{
+    <div class="alert alert-info">@ViewBag.message</div>
+    <div class="row" style="margin-left:300px">
+
+        <form method="post" enctype="multipart/form-data">
+            <table>
+
+                <tr>
+                    <td><h4 class="text-primary">Product Name</h4></td>
+                    <td><input type="text" name="Name" value="@Model.Name" /></td>
+
+                </tr>
+
+                <tr>
+                    <td><h4 class="text-primary">Product Code</h4></td>
+                    <td><input class="text-primary" type="text" name="Code" value="@Model.Code" /></td>
+
+                </tr>
+
+
+                <tr>
+                    <td><h4 class="text-primary">ProductCategory</h4></td>
+                    <td>
+                        @Html.DropDownListFor(c => c.CategoryID, Model.CategoryList, "--Select--", new { @class = "form-control" })
+                    </td>
+
+                </tr>
+
+
+                <tr>
+                    <td><h4 class="text-primary">Product Reorder Level</h4></td>
+                    <td><input class="text-primary" type="text" name="ReorderLevel" value="@Model.ReorderLevel" /></td>
+
+                </tr>
+
+                <tr>
+                    <td><h4 class="text-primary">Product Discription</h4></td>
+                    <td><input class="text-primary" type="text" name="Discription" value="@Model.Discription" /></td>
+
+                </tr>
+
+                <tr>
+                    <td><h4 class="text-primary">Product Photo</h4></td>
+                   
+
+                    <td>
+                        <input type="file" name="ImageData" onchange="fileCheck(this);" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input class="btn btn-success" type="submit" value="Update" /></td>
+
+                </tr>
+
+               
+
+            </table>
+
+        </form>
+
+
+
+    </div>
+
+
+}
+
+ 
+
+@section scripts{
+    
+    <script type="text/javascript">
+
+        //function fileCheck(obj)
+        //{
+        //    var ID = $("#ImageData").val();
+        //    var jsonData = { ID: ID };
+
+        //    $.ajax(
+        //        {
+        //            url: "/product/GetbyID2",
+        //            type: "POST",
+        //            data: jsonData,
+        //            success: function (Product) {
+
+        //                $("#img").val(Product);
+
+
+        //                //$("#CodeText").val("ReorderLevel...");
+        //                //$("#PreviousCostPriceText").val("unitPrice....");
+        //                //$("#PreviousMRPText").val("aProduct...");
+
+        //            },
+        //            error: function (response) {
+        //                alert(response);
+        //            }
+
+        //        }
+        //    );
+        //}
+
+
+    </script>
+    }

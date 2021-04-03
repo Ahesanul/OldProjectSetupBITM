@@ -1,0 +1,147 @@
+﻿@model StockManageWeb.Models.ProductVM
+@{
+    ViewBag.Title = "Add";
+}
+
+
+<h2 class="alert alert-info text-center">Add</h2>
+@if (ViewBag.message != null)
+{
+    <div class="alert alert-info">@ViewBag.message</div>
+
+}
+<div class="row center">
+    <div class="container" style="margin-left:5%">
+        <form method="post" enctype="multipart/form-data">
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+            <table>
+
+                <tr>
+                    <td><h6 class="text-bold">Product Name</h6></td>
+                    <td><input class="form-control" type="text" name="Name" /></td>
+                    <td>@Html.ValidationMessageFor(c => c.Name, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td><h6 class="text-bold">Product Code</h6></td>
+                    <td><input class="form-control" type="text" name="Code" /></td>
+                    <td>@Html.ValidationMessageFor(c => c.Code, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td><h6 class="text-bold">Product Reorder Level</h6></td>
+                    <td><input class="form-control" type="text" name="ReorderLevel" /></td>
+                    <td>@Html.ValidationMessageFor(c => c.ReorderLevel, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+
+                    <td><h6 class="text-bold">Product Category</h6></td>
+
+                    <td>
+                        @Html.DropDownListFor(c => c.CategoryID, Model.CategoryList, "--Select--", new { @class = "form-control" })
+
+                    </td>
+                    <td><a href="/Category/add" class="btn btn-danger">+</a></td>
+                    <td>  @Html.ValidationMessageFor(c => c.CategoryID, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td><h6 class="text-bold">Product Discription</h6></td>
+                    <td><input class="form-control" type="text" name="Discription" /></td>
+                    <td>  @Html.ValidationMessageFor(c => c.Discription, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td><h6 class="text-bold">Upload</h6></td>
+                    <td>
+                        <input class="form-control" type="file" name="ImageData" onchange="fileCheck(this);" />
+                    </td>
+                    <td>  @Html.ValidationMessageFor(c => c.Data, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td><input class="btn btn-success" type="submit" value="Add" /></td>
+
+                </tr>
+
+            </table>
+
+        </form>
+
+
+        <div class="col-lg-10" style="margin-left:0">
+
+            <table class="table table-striped row">
+
+                <tr>
+                    <th>Sl</th>
+                    <th>Product Name</th>
+                    <th>Product Code</th>
+                    <th>Product Category</th>
+                    <th>Product Reoreder Level</th>
+                    <th>Product Discriptions</th>
+                    <th>Photo</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+
+
+                @{int sl = 1; }
+                @foreach (var i in Model.products)
+                {
+                    <tr>
+                        <td>@(sl++ )</td>
+                        <td>@i.Name</td>
+                        <td>@i.Code</td>
+                        <td>@i.categories.Name</td>
+                        <td>@i.ReorderLevel</td>
+                        <td>@i.Discription</td>
+                        <td>
+
+                            @if (i.Data != null)
+                            {
+                                var base64 = Convert.ToBase64String(i.Data);
+                                var imgsrc = string.Format("data:image/png;base64,{0}", base64);
+                                <img src='@imgsrc' style="max-width:100px;max-height:100px" id="@i.ID" / >
+                            }
+
+                        </td>
+                        <td><a href="/Product/Edit?id=@i.ID" class="btn btn-primary" name="Name">Edit</a></td>
+                        <td><a href="/Product/Delete?id=@i.ID" class="btn btn-danger">Delete</a></td>
+                    </tr>
+                }
+
+
+            </table>
+        </div>
+
+    </div>
+
+
+</div>
+
+<d
+
+@section Scripts{
+
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <script type="text/javascript">
+
+        function fileCheck(obj) {
+            var fileExtension = ['jpeg', 'jpg', 'png', 'gif', 'bmp'];
+            if ($.inArray($(obj).val().split('.').pop().toLowerCase(), fileExtension) == -1) {
+                alert("Only '.jpeg','.jpg', '.png', '.gif', '.bmp' formats are allowed.");
+            }
+            else {
+                alert("Done");
+            }
+
+        }
+    </script>
+
+}

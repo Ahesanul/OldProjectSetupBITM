@@ -1,0 +1,144 @@
+﻿@model StockManageWeb.Models.SupplierVM
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2 class="alert alert-info text-center">Add</h2>
+@if (ViewBag.message != null)
+{
+    <div class="alert alert-info">@ViewBag.message</div>
+
+}
+<div class="row" style="margin-left:5%">
+
+    <form method="post" enctype="multipart/form-data">
+        <table>
+
+            <tr>
+                <td><h6 class="text-bold">Supplier Name</h6></td>
+                <td><input type="text" name="Name" /></td>
+
+            </tr>
+
+            <tr>
+                <td><h6 class="text-bold">Supplier Code</h6></td>
+                <td><input class="text-primary" type="text" name="Code" /></td>
+
+            </tr>
+
+            <tr>
+                <td><h6 class="text-bold">Supplier Address</h6></td>
+                <td><input class="text-primary" type="text" name="Address" /></td>
+
+            </tr>
+
+            <tr>
+                <td><h6 class="text-bold">Supplier Email</h6></td>
+                <td><input class="text-primary" type="text" name="Email" /></td>
+
+            </tr>
+
+            <tr>
+                <td><h6 class="text-bold">Supplier Contact</h6></td>
+                <td><input class="text-primary" type="text" name="Contact" /></td>
+
+            </tr>
+
+            <tr>
+                <td><h6 class="text-bold">Supplier Person</h6></td>
+                <td><input class="text-primary" type="text" name="ContactPerson" /></td>
+
+            </tr>
+
+            <tr>
+                <td><h6 class="text-bold">Upload</h6></td>
+                <td>
+                    <input type="file" name="ImageData" onchange="fileCheck(this);" />
+                </td>
+                <td>  @Html.ValidationMessageFor(c => c.Data, null, new { @class = "text-danger" })</td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td><input class="btn btn-success" type="submit" value="Add" /></td>
+
+            </tr>
+
+        </table>
+
+    </form>
+
+ </div>
+
+<div style="margin-left:2%" >
+
+    <div class="col-lg-10">
+
+        <table class="table table-striped row">
+
+            <tr>
+                <th>Sl</th>
+                <th>Supplier Name</th>
+                <th>Supplier Code</th>
+                <th>Address</th>
+                <th>Email</th>
+                <th>Contact</th>
+                <th>ContactPerson</th>
+                <th>Photo</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+
+
+            @{int sl = 1; }
+            @foreach (var i in Model.suppliers)
+            {
+                <tr>
+                    <td>@( sl++ )</td>
+                    <td>@i.Name</td>
+                    <td>@i.Code</td>
+                    <td>@i.Address</td>
+                    <td>@i.Email</td>
+                    <td>@i.Contact</td>
+                    <td>@i.ContactPerson</td>
+                    <td>
+
+                        @if (i.Data != null)
+                        {
+                            var base64 = Convert.ToBase64String(i.Data);
+                            var imgsrc = string.Format("data:image/png;base64,{0}", base64);
+                            <img src='@imgsrc' style="max-width:100px;max-height:100px" / >
+                        }
+
+                    </td>
+                    <td><a href="/Supplier/Edit?id=@i.ID" class="btn btn-primary" name="Name">Edit</a></td>
+                    <td><a href="/Supplier/Delete?id=@i.ID" class="btn btn-danger">Delete</a></td>
+                </tr>
+            }
+
+
+
+        </table>
+
+    </div>
+ </div>
+    @section Scripts{
+
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+        <script type="text/javascript">
+
+            function fileCheck(obj) {
+                var fileExtension = ['jpeg', 'jpg', 'png', 'gif', 'bmp'];
+                if ($.inArray($(obj).val().split('.').pop().toLowerCase(), fileExtension) == -1) {
+                    alert("Only '.jpeg','.jpg', '.png', '.gif', '.bmp' formats are allowed.");
+                }
+                else {
+                    alert("Done");
+                }
+
+            }
+        </script>
+
+    }

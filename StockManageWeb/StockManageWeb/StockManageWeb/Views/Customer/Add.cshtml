@@ -1,0 +1,158 @@
+﻿@model StockManageWeb.Models.CustomerVM
+@{
+    /**/
+
+    ViewBag.Title = "Add";
+}
+
+<h2 class="alert alert-info text-center">Add</h2>
+@if (ViewBag.message != null)
+{
+    <div class="alert alert-info">@ViewBag.message</div>
+
+}
+
+<div class="row">
+
+    <div class="col-2">
+
+    </div>
+    <div class="col-8">
+        @using (Html.BeginForm("Add", "Customer", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true)
+            <table>
+
+                <tr>
+                    <td><h6 class="text-bold">Name</h6></td>
+                    <td><input class="form-control" type="text" name="Name" /></td>
+                    <td>  @Html.ValidationMessageFor(c => c.Name, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td><h6 class="text-bold">Code</h6></td>
+                    <td><input class="form-control" type="text" name="Code" /></td>
+                    <td>  @Html.ValidationMessageFor(c => c.Code, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td><h6 class="text-bold">Address</h6></td>
+                    <td><input class="form-control" type="text" name="Address" /></td>
+                    <td>  @Html.ValidationMessageFor(c => c.Address, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td><h6 class="text-bold">Email</h6></td>
+                    <td><input class="form-control" type="email" name="Email" /></td>
+                    <td>  @Html.ValidationMessageFor(c => c.Email, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td><h6 class="text-bold">Contact</h6></td>
+                    <td><input class="form-control" type="text" name="Contact" /></td>
+                    <td>  @Html.ValidationMessageFor(c => c.Contact, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td><h6 class="text-bold">Loyalty</h6></td>
+                    <td><input class="form-control" type="text" name="Loyalty" /></td>
+                    <td>  @Html.ValidationMessageFor(c => c.Loyalty, null, new { @class = "text-danger" })</td>
+                </tr>
+                <tr>
+                    <td><h6 class="text-bold">Upload</h6></td>
+                    <td>
+                        <input type="file" name="ImageData" onchange="fileCheck(this);" />
+                    </td>
+                    <td>  @Html.ValidationMessageFor(c => c.Data, null, new { @class = "text-danger" })</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td><input class="btn btn-success" type="submit" value="Add" /></td>
+
+                </tr>
+
+
+
+            </table>
+
+        }
+    </div>
+    <div class="col-2">
+
+    </div>
+
+
+    <div class="col-lg-9">
+
+        <table class="table table-striped">
+
+            <tr>
+                <th>Sl</th>
+                <th>Name</th>
+                <th>Code</th>
+                <th>Address</th>
+                <th>Email</th>
+                <th>Contact</th>
+                <th>Loyalty</th>
+                <th>Photo</th>
+                <th>Edit</th>
+                <th>Delete</th>
+
+            </tr>
+
+
+
+            @{int sl = 0; }
+            @foreach (var i in Model.customers)
+            {
+                <tr>
+                    <td>@(sl += 1)</td>
+                    <td>@i.Name</td>
+                    <td>@i.Code</td>
+                    <td>@i.Address</td>
+                    <td>@i.Email</td>
+                    <td>@i.Contact</td>
+                    <td>@i.Loyalty</td>
+                    <td>
+
+                        @if (i.Data != null)
+                        {
+                            var base64 = Convert.ToBase64String(i.Data);
+                            var imgsrc = string.Format("data:image/png;base64,{0}", base64);
+                            <img src='@imgsrc' style="max-width:100px;max-height:100px" / >
+                        }
+
+                    </td>
+                    <td><a href="/Customer/Edit?id=@i.ID" class="btn btn-primary" name="Name">Edit</a></td>
+                    <td><a href="/Customer/Delete?id=@i.ID" class="btn btn-danger">Delete</a></td>
+                </tr>
+            }
+
+
+
+        </table>
+    </div>
+
+</div>
+@section Scripts{
+
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <script type="text/javascript">
+
+        function fileCheck(obj) {
+            var fileExtension = ['jpeg', 'jpg', 'png', 'gif', 'bmp'];
+            if ($.inArray($(obj).val().split('.').pop().toLowerCase(), fileExtension) == -1) {
+                alert("Only '.jpeg','.jpg', '.png', '.gif', '.bmp' formats are allowed.");
+            }
+            else {
+                alert("Done");
+            }
+
+        }
+    </script>
+
+}

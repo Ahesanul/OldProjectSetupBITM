@@ -1,0 +1,27 @@
+Create Class Laibrary
+
+
+Class-DatabaseContext : Install EntityFramework
+install-package entityframework
+Add Migration,
+Command{ packageConsole- update-database, || (update-database -targetMigration:20081983MigrationName)-for-Undo||
+			enable-migrations, 
+			add-migration "migrationName"}
+
+
+
+Connection String:
+ <connectionStrings>
+    <add name="StockManageDbContext" connectionString="Server=SHIJU; Database=StockManageWebDB; Integrated Security=True" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+
+
+
+Reference Setup:
+UIProject: Bll & Model
+library Bll : Model & Repository
+Repositoy : Model & DBContext (EF)
+DBContext : Model (EF)
+
+
+

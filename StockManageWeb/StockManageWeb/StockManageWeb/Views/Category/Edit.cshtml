@@ -1,0 +1,49 @@
+﻿@model StockManageWeb.Models.CategoryVM
+@{
+    /**/
+
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@if (Model != null)
+{
+    <div class="alert alert-info">@ViewBag.message</div>
+    
+    <form method="post">
+
+
+
+        <div class="row">
+            <div class="col-3">
+
+            </div>
+            <div class="col-6 center">
+                <h6 class="text-bold">Category Name</h6>
+                <input class="form-control" type="text" name="Name" value="@Model.Name" />
+
+
+
+                <h6 class="text-bold">Category Code</h6>
+                <input class="form-control" type="text" name="Code" value="@Model.Code" />
+
+
+
+
+                <input class="btn btn-success" type="submit" value="Update" />
+            </div>
+            <div class="col-3">
+
+            </div>
+
+        </div>
+
+    </form>
+
+    
+
+ 
+  }
+
+

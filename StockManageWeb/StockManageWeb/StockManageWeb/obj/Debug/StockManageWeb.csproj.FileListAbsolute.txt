@@ -1,0 +1,609 @@
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManageWeb.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\csc.rsp
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\csi.rsp
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.AppContext.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Console.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Compression.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Claims.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.ValueTuple.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\vbc.rsp
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\AutoMapper.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\EntityFramework.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManage.BLL.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Razor.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManage.BLL.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManage.Models.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\AutoMapper.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\AutoMapper.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\EntityFramework.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Razor.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csprojAssemblyReference.cache
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CoreCompileInputs.cache
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CopyComplete
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Console.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\AutoMapper.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.pdb
+K:\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll.config
+K:\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll
+K:\StockManageWeb\StockManageWeb\bin\StockManageWeb.pdb
+K:\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe
+K:\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe.config
+K:\StockManageWeb\StockManageWeb\bin\roslyn\csc.rsp
+K:\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe
+K:\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe.config
+K:\StockManageWeb\StockManageWeb\bin\roslyn\csi.rsp
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Managed.Core.targets
+K:\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.AppContext.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Collections.Immutable.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Console.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Compression.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Reflection.Metadata.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.AccessControl.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Claims.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Principal.Windows.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.ValueTuple.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XmlDocument.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe
+K:\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe.config
+K:\StockManageWeb\StockManageWeb\bin\roslyn\vbc.rsp
+K:\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe
+K:\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe.config
+K:\StockManageWeb\StockManageWeb\bin\AutoMapper.dll
+K:\StockManageWeb\StockManageWeb\bin\EntityFramework.dll
+K:\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.dll
+K:\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\StockManageWeb\StockManageWeb\bin\Microsoft.Web.Infrastructure.dll
+K:\StockManageWeb\StockManageWeb\bin\StockManage.BLL.dll
+K:\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.dll
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.dll
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Razor.dll
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.dll
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.dll
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.dll
+K:\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll
+K:\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll
+K:\StockManageWeb\StockManageWeb\bin\StockManage.BLL.pdb
+K:\StockManageWeb\StockManageWeb\bin\StockManage.Models.pdb
+K:\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll.config
+K:\StockManageWeb\StockManageWeb\bin\AutoMapper.pdb
+K:\StockManageWeb\StockManageWeb\bin\AutoMapper.xml
+K:\StockManageWeb\StockManageWeb\bin\EntityFramework.xml
+K:\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.xml
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Razor.xml
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.xml
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.xml
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.xml
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.xml
+K:\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.xml
+K:\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.pdb
+K:\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll.config
+K:\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.pdb
+K:\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll.config
+K:\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csprojAssemblyReference.cache
+K:\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CoreCompileInputs.cache
+K:\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CopyComplete
+K:\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.dll
+K:\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csc.rsp
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csi.rsp
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.AppContext.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Console.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Compression.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Claims.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.ValueTuple.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\vbc.rsp
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\AutoMapper.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\EntityFramework.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManage.BLL.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Razor.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManage.BLL.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManage.Models.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\AutoMapper.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\AutoMapper.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\EntityFramework.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Razor.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csprojAssemblyReference.cache
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CoreCompileInputs.cache
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CopyComplete
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csprojAssemblyReference.cache
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CoreCompileInputs.cache
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csc.rsp
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\csi.rsp
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.AppContext.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Console.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\vbc.rsp
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\AutoMapper.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\EntityFramework.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.BLL.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Razor.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.BLL.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.Models.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\AutoMapper.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\AutoMapper.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\EntityFramework.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Razor.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CopyComplete
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csc.rsp
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\csi.rsp
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.AppContext.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Console.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Compression.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Claims.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.ValueTuple.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\vbc.rsp
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\AutoMapper.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\EntityFramework.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManage.BLL.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Razor.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManage.BLL.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManage.Models.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\AutoMapper.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\AutoMapper.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\EntityFramework.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Razor.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csprojAssemblyReference.cache
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CoreCompileInputs.cache
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CopyComplete
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManageWeb.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManageWeb.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\csc.exe.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\csc.rsp
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\csi.exe.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\csi.rsp
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.AppContext.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Console.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Compression.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.IO.Pipes.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Claims.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.ValueTuple.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\vbc.exe.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\vbc.rsp
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\AutoMapper.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\EntityFramework.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManage.BLL.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Razor.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManage.BLL.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManage.DatabaseContext.dll.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManage.Models.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManage.Models.dll.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\AutoMapper.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\AutoMapper.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\EntityFramework.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\EntityFramework.SqlServer.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Razor.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Webpages.Razor.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Helpers.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\System.Web.Mvc.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\bin\StockManageWeb.repository.dll.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csprojAssemblyReference.cache
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CoreCompileInputs.cache
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.csproj.CopyComplete
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb\obj\Debug\StockManageWeb.pdb

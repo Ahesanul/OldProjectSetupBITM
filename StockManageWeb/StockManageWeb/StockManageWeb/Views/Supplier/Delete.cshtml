@@ -1,0 +1,53 @@
+﻿@model StockManage.Models.Models.Supplier
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+
+<h2 class="alert alert-info text-center">Add</h2>
+@if (ViewBag.message != null)
+{
+    <div class="alert alert-info">@ViewBag.message</div>
+
+}
+
+<div class="col-lg-12">
+
+    <table class="table table-striped row">
+        <thead>
+            <tr>
+                <th>Sl</th>
+                <th>Category Name</th>
+                <th>Category Code</th>
+                <th>Address</th>
+                <th>Email</th>
+                <th>Contact</th>
+                <th>Contact Person</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @{int sl = 1; }
+            @foreach (var i in Model.suppliers)
+            {
+                <tr>
+                    <td>@( sl++ )</td>
+                    <td>@i.Name</td>
+                    <td>@i.Code</td>
+                    <td>@i.Address</td>
+                    <td>@i.Email</td>
+                    <td>@i.Contact</td>
+                    <td>@i.ContactPerson</td>
+                    <td><a href="/supplier/Edit?id=@i.ID" class="btn btn-primary" name="Name">Edit</a></td>
+                    <td><a href="/supplier/Delete?id=@i.ID" class="btn btn-danger">Delete</a></td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>

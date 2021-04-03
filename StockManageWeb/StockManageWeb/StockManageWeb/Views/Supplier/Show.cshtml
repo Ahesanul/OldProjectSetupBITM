@@ -1,0 +1,66 @@
+﻿
+@model StockManageWeb.Models.SupplierVM
+@{
+    ViewBag.Title = "Show";
+}
+
+<h2>Show</h2>
+
+
+<div class="row" style="margin-left:0">
+    <form method="post">
+
+        <tr>
+            <td><h4 class="text-primary">Search</h4></td>
+            <td><input class="text-primary" type="text" name="Name" /></td>
+
+        </tr>
+
+        <tr>
+            <td></td>
+            <td><input class=" btn btn-primary" type="submit" value="Search" /></td>
+
+        </tr>
+    </form>
+
+
+</div>
+
+<div class="col-lg-12">
+
+    <table class="table table-striped row">
+        <thead>
+            <tr>
+                <th>Sl</th>
+                <th>Category Name</th>
+                <th>Category Code</th>
+                <th>Address</th>
+                <th>Email</th>
+                <th>Contact</th>
+                <th>ContactPerson</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @{int sl = 1; }
+            @foreach (var i in Model.suppliers)
+            {
+                <tr>
+                    <td>@( sl++ )</td>
+                    <td>@i.Name</td>
+                    <td>@i.Code</td>
+                    <td>@i.Address</td>
+                    <td>@i.Email</td>
+                    <td>@i.Contact</td>
+                    <td>@i.ContactPerson</td>
+                    <td><a href="/Supplier/Edit?id=@i.ID" class="btn btn-primary" name="Name">Edit</a></td>
+                    <td><a href="/Supplier/Delete?id=@i.ID" class="btn btn-danger">Delete</a></td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,48 @@
+﻿
+@model StockManage.Models.Models.Product
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2 class="alert alert-info text-center">Add</h2>
+@if (ViewBag.message != null)
+{
+    <div class="alert alert-info">@ViewBag.message</div>
+
+}
+<div class="col-lg-8">
+
+    <table class="table table-striped row">
+        <thead>
+            <tr>
+                <th>Sl</th>
+                <th>Product Name</th>
+                <th>Product Code</th>
+                <th>Product Category</th>
+                <th>Product Reoreder Level</th>
+                <th>Product Discriptions</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @{int sl = 1; }
+            @foreach (var i in Model.products)
+            {
+                <tr>
+                    <td>@(sl++ )</td>
+                    <td>@i.Name</td>
+                    <td>@i.Code</td>
+                    <td>@i.Category</td>
+                    <td>@i.ReorderLevel</td>
+                    <td>@i.Discription</td>
+                    <td><a href="/Product/Edit?id=@i.ID" class="btn btn-primary" name="Name">Edit</a></td>
+                    <td><a href="/Product/Delete?id=@i.ID" class="btn btn-danger">Delete</a></td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>

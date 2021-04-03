@@ -1,0 +1,219 @@
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll.config
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll.config
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csprojAssemblyReference.cache
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.InitialCreate.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.first001.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.first004.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.first006.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.PRoduct.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.PRoduct1.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Customer.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Supplies.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.image.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.images.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.asssssssssss.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.sales.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.sale.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.sal.resources
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.GenerateResource.cache
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CopyComplete
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.pdb
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll.config
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.pdb
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.dll
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.pdb
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll.config
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.xml
+K:\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csprojAssemblyReference.cache
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.InitialCreate.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.first001.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.first004.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.first006.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.PRoduct.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.PRoduct1.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Customer.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Supplies.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.image.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.images.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.asssssssssss.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.sales.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.sale.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.sal.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.aaaaaaaaaaaaaaaaaaa.resources
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.GenerateResource.cache
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CoreCompileInputs.cache
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CopyComplete
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.dll
+K:\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.pdb
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll.config
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.pdb
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.pdb
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll.config
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csprojAssemblyReference.cache
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.InitialCreate.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.first001.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.first004.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.first006.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.PRoduct.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.PRoduct1.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Customer.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Supplies.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.image.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.images.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.asssssssssss.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.sales.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.sale.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.sal.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.aaaaaaaaaaaaaaaaaaa.resources
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.GenerateResource.cache
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CoreCompileInputs.cache
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CopyComplete
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.dll
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.pdb
+E:\Fahad\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.VM.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CopyComplete
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Product22.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Product23.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase1.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase12.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase13.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase14.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase15.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase16.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase17.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase18.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase19.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase20.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase21.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase22.resources
+C:\Users\eMu\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase23.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Product22.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Product23.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase1.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase12.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase13.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase14.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase15.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase16.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase17.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase18.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase19.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase20.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase21.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase22.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase23.resources
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations._class.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csprojAssemblyReference.cache
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Product22.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Product23.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase1.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase12.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase13.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase14.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase15.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase16.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase17.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase18.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase19.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase20.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase21.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase22.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Perchase23.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations._class.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.GenerateResource.cache
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CopyComplete
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.Image.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.image2.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.image3.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.ddfd.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.ddfdk.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.ddfdkk.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.ddfdkkjk.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.fasf.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.fasfl.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.asd.resources
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.asdhj.resources
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csprojAssemblyReference.cache
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CopyComplete
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.testtheproject.resources
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.GenerateResource.cache

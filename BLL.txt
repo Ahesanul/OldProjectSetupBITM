@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using MyWinApp.Repositive;
+using System.Data;
+
+namespace MyWinApp.BL
+{
+   public class StudentManager
+    {
+        StudentRepositive _studentRepositive = new StudentRepositive();
+        public DataTable LoadDistrict()
+        {
+            return _studentRepositive.LoadDistrict();
+        }
+        public DataTable ShowStudent()
+        {
+            return _studentRepositive.ShowStudent();
+        }
+    }
+}

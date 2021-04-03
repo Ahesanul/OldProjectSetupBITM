@@ -1,0 +1,126 @@
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.pdb
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll.config
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csprojAssemblyReference.cache
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CoreCompileInputs.cache
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CopyComplete
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.dll
+D:\proj\BASIS\pro\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll.config
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.dll
+C:\Users\Web App Develop .Net\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.pdb
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll.config
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.pdb
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.dll
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.dll
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.pdb
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll.config
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.pdb
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll.config
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.xml
+K:\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.xml
+K:\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csprojAssemblyReference.cache
+K:\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CoreCompileInputs.cache
+K:\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CopyComplete
+K:\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.dll
+K:\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.pdb
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll.config
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csprojAssemblyReference.cache
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CoreCompileInputs.cache
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CopyComplete
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.dll
+E:\Fahad\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.pdb
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll.config
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csprojAssemblyReference.cache
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CoreCompileInputs.cache
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CopyComplete
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.dll
+C:\Users\eMu\Desktop\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.pdb
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll.config
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csprojAssemblyReference.cache
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CoreCompileInputs.cache
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CopyComplete
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.dll
+D:\proj\BASIS\GitPro\BITM\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManageWeb.repository.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.DatabaseContext.dll.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.pdb
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\StockManage.Models.dll.config
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csprojAssemblyReference.cache
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CoreCompileInputs.cache
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.csproj.CopyComplete
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.dll
+D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManageWeb.repository\obj\Debug\StockManageWeb.repository.pdb
