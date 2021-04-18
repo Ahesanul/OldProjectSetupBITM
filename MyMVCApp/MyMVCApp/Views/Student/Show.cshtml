@@ -1,0 +1,84 @@
+﻿@model MyMVCApp.Models.Models.Student
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Show</title>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            margin:50px;
+            width: 50%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+<body>
+    <div> <form method="post">
+    <table>
+        <tr>
+            <td>Name</td>
+            <td>
+                <input type="text" name="Name" value="@Model.Name" />
+            </td>
+        </tr>
+        <tr>
+            <td>Address</td>
+
+            <td>
+                <input type="text" name="Address" value="@Model.Address" />
+            </td>
+        </tr>
+        <tr>
+            <td>Age</td>
+
+            <td><input type="text" name="Age" value="@Model.Age" /></td>
+        </tr>
+        <tr>
+            <td>Action</td>
+
+            <td><input type="submit" value="Search" /></td>
+        </tr>
+    </table>
+</form>
+        <table>
+            <thead>
+                <tr>
+                    <td>Sl</td>
+                    <td>Name</td>
+                    <td>Address</td>
+                    <td>Age</td>
+                </tr>
+            </thead>
+            <tbody>
+                @{int sl = 1;}                
+                @foreach (var student in Model.students)
+                {
+                    <tr>
+                        <td>@(sl ++)</td>
+                        <td>@student.Name</td>
+                        <td>@student.Address</td>
+                        <td>@student.Age</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

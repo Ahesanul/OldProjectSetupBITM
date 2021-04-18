@@ -217,3 +217,20 @@ D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.Da
 D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.pdb
 D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.testtheproject.resources
 D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll.config
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.dll
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.DatabaseContext.pdb
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.pdb
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\StockManage.Models.dll.config
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.Migrations.testtheproject.resources
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.csproj.CopyComplete
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.dll
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.DatabaseContext\obj\Debug\StockManage.DatabaseContext.pdb

@@ -1,0 +1,54 @@
+﻿@model MyMVCApp.Models.Models.Student
+@{
+    Layout = null;
+}
+
+@if (ViewBag.SuccesMsg != null)
+{
+    <h3 style="font-family:'Times New Roman', Times, serif; color:darkblue"> @ViewBag.SuccesMsg</h3>
+}
+@if (ViewBag.FailedMsg != null)
+{
+    <h3 style="font-family:'Times New Roman', Times, serif; color:firebrick"> @ViewBag.SuccesMsg</h3>
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <div>
+        <form method="post">
+            <input type="hidden" name="Id" value="@Model.ID" />
+            <table>
+                <tr>
+                    <td>Name</td>
+                    <td>
+                        <input type="text" name="Name" value="@Model.Name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+
+                    <td>
+                        <input type="text" name="Address" value="@Model.Address" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Age</td>
+
+                    <td><input type="text" name="Age" value="@Model.Age" /></td>
+                </tr>
+                <tr>
+                    <td>Action</td>
+
+                    <td><input type="submit" value="Update" /></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

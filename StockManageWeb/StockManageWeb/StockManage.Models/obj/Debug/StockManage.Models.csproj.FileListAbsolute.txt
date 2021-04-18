@@ -70,3 +70,15 @@ D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.Mo
 D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.Models\obj\Debug\StockManage.Models.csproj.CopyComplete
 D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.Models\obj\Debug\StockManage.Models.dll
 D:\Another process\ASP.Project BITM\StockManageWeb\StockManageWeb\StockManage.Models\obj\Debug\StockManage.Models.pdb
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\bin\Debug\StockManage.Models.dll.config
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\bin\Debug\StockManage.Models.dll
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\bin\Debug\StockManage.Models.pdb
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\bin\Debug\EntityFramework.dll
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\bin\Debug\EntityFramework.xml
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\obj\Debug\StockManage.Models.csprojAssemblyReference.cache
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\obj\Debug\StockManage.Models.csproj.CoreCompileInputs.cache
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\obj\Debug\StockManage.Models.csproj.CopyComplete
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\obj\Debug\StockManage.Models.dll
+C:\Users\SHIJU\Desktop\Git upload\OldProjectSetupBITM\StockManageWeb\StockManageWeb\StockManage.Models\obj\Debug\StockManage.Models.pdb

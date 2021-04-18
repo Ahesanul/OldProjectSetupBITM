@@ -1,0 +1,17 @@
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csprojAssemblyReference.cache
